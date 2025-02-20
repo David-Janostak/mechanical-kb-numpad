@@ -1,0 +1,23 @@
+My to do list:
+ Learning stuff: 
+   1) learn to use git in vsc - in progress
+   2) learn the basics of C++ - not started yet
+   3) make an example keyboard on a breadboard with switches, wires and an ESP32 - done
+   4) programm that thing - in progress, currently paused (20.2.25)
+
+ The numpad itself:
+   1) choose parts and draw a schematic in EasyEDA
+   2) order the pcb and the parts
+   3) design and print a case for the pad
+   4) assemble it all
+   5) programm that thing
+
+Parts list for the numpad:
+  1) ESP32 custom low power devboard
+  2) brown tactile switches + lube, support switches
+  3) custom PCB
+  4) zenner diodes for anti-ghosting
+  5) battery and it's charging circuit, using ESP32's USB input for charging
+  6) (potentially) LED diodes for backlight
+  7) numpad keycaps
+  8) 3D printed case
