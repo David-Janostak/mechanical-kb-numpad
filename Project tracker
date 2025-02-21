@@ -21,3 +21,11 @@ Parts list for the numpad:
   6) (potentially) LED diodes for backlight
   7) numpad keycaps
   8) 3D printed case
+
+The code - roadmap
+  1) import libraries 
+  2) define pins
+  3) set up pinMode
+  4) repeatedly set columns to high and read row values to detect change
+  5) specify what each key press will do
+
