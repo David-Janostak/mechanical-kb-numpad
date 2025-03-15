@@ -16,9 +16,9 @@ Parts list for the numpad:
   1) ESP32 custom low power devboard
   2) brown tactile switches + lube, support switches
   3) custom PCB
-  4) zenner diodes for anti-ghosting
-  5) battery and it's charging circuit, using ESP32's USB input for charging
-  6) (potentially) LED diodes for backlight
+  4) zenner diodes for hardware anti-ghosting
+  5) battery and its charging circuit, using ESP32's USB input for charging
+  6) (potentially) LED ARGB diodes for backlight
   7) numpad keycaps
   8) 3D printed case
 
@@ -33,6 +33,6 @@ The code - roadmap
  What do you think I've done today? Ofc nothing lol - Dave 23.02.25 23:22
 
 15.03.2025:
-  Coded a functional demo with one swith wired to esp8266. 
-   - found a way to resolve unknown signs and garbage characters in serial monitor
+  Coded a functional demo with one switch wired to esp8266. 
+   - found a way to resolve unknown characters and garbage characters in serial monitor
    - programmable output to serial monitor after button press
