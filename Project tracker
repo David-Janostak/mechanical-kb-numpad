@@ -36,3 +36,5 @@ The code - roadmap
   Coded a functional demo with one switch wired to esp8266. 
    - found a way to resolve unknown characters and garbage characters in serial monitor
    - programmable output to serial monitor after button press
+16.03.2025
+  Added code for confirmation LED diode
