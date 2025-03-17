@@ -35,7 +35,7 @@ The code - roadmap
 15.03.2025:
   Coded a functional demo with one switch wired to esp8266. 
    - found a way to resolve unknown characters and garbage characters in serial monitor
-			- properly defined and set up communication between esp and pc
+			- properly defined and set up communication between esp and pc (monitor_speed and monitor_filter in platformio.ini file), specified communication speed in void.setup in main.cpp
    - programmable output to serial monitor after button press
 16.03.2025
   Added code for confirmation LED diode
