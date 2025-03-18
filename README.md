@@ -1,2 +1,3 @@
-# mechanical kb numpad
-"... lemme learn how git works at first lol ..." - Dave, 19.2.2025 23:45
+# Mechanical keyboard NUMPAD
+
+This repo features not only the final project, but my prototypes, trials and errors and smaller projects build on esp 32 and 8266 where i built and tested specific functions and features
