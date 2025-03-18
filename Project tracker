@@ -37,5 +37,8 @@ The code - roadmap
    - found a way to resolve unknown characters and garbage characters in serial monitor
 			- properly defined and set up communication between esp and pc (monitor_speed and monitor_filter in platformio.ini file), specified communication speed in void.setup in main.cpp
    - programmable output to serial monitor after button press
-16.03.2025
+16.03.2025:
   Added code for confirmation LED diode
+18.03.2025:
+  - Extended ReadMe.md, specified my achievements so far and my plans for the future
+  - Started working on PC to ESP32 communication and debugging the months old code
