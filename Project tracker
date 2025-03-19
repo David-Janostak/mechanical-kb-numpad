@@ -42,3 +42,7 @@ The code - roadmap
 18.03.2025:
   - Extended ReadMe.md, specified my achievements so far and my plans for the future
   - Started working on PC to ESP32 communication and debugging the months old code
+19.03.2025:
+	- Started researching hardware for the final version
+		- Will replace the esp32 with Seeed XAIO nRF52840 microcontroller, for the battery I'll use a 603048 900mAh 3.7V protected battery, for hardware antighosting I'll use 1N4148 diodes, the switches will be lubed brown K Pro by Keychron and I'll consider adding RGB diodes WS2812B SMD 5050
+		- The PCB will be custom designed and the case 3D printed. I've not researched the keycaps yet.
