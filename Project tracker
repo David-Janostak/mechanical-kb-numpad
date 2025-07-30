@@ -46,3 +46,30 @@ The code - roadmap
 	- Started researching hardware for the final version
 		- Will replace the esp32 with Seeed XAIO nRF52840 microcontroller, for the battery I'll use a 603048 900mAh 3.7V protected battery, for hardware antighosting I'll use 1N4148 diodes, the switches will be lubed brown K Pro by Keychron and I'll consider adding RGB diodes WS2812B SMD 5050
 		- The PCB will be custom designed and the case 3D printed. I've not researched the keycaps yet.
+
+30.07.2025:
+  - In the last 4 months, I was trying to create a wiring diagram and design the pcb so that I can buy all the parts and put them together. 
+   - I wasn't sure that the diagram is drawn correctly, therefore was unable to design the pcb itself.
+
+   - My plan:
+    1. Buy all the parts
+    2. assemble everything on a breadboard
+    3. write the code
+    4. proove that my wiring diagram works
+    5. adjust the diagram if needed
+    6. design and order the pcb
+    7. design and 3D print the case
+
+   - I've decided to use Keychron K PRO *mint* switches instead of the brown ones
+    - size of the matrix will be 4x6 
+
+  (remaining) PARTS LIST:
+   - 1x seeed xiao nRf52840
+   - 1x 603048 900mAh 3.7V protected battery
+   - 21x (25x) 1N4148 diodes
+   ###- 21x Keychron K pro Mint switch###
+   - 24x (30x) WS2812B SMD 5050
+   - 6x wide keycap stabilizer
+
+   - keycaps - 3D printed
+   - case - 3D printed
