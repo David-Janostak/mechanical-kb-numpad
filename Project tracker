@@ -68,7 +68,9 @@ The code - roadmap
    ###- 1x 603048 900mAh 3.7V protected battery
    - 21x (25x) 1N4148 diodes
    ###- 21x Keychron K pro Mint switch
-   - 24x (30x) WS2812B SMD 5050
+   - 24x (30x) WS2812B SMD 5050 V5
+   - 24x (30x) 0,1uF capacitor 
+   ###- 1x 330ohm resistor
    - 6x wide keycap stabilizer
 
    - keycaps - 3D printed
