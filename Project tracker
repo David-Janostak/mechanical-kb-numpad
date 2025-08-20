@@ -64,10 +64,10 @@ The code - roadmap
     - size of the matrix will be 4x6 
 
   (remaining) PARTS LIST:
-   - 1x seeed xiao nRf52840
-   - 1x 603048 900mAh 3.7V protected battery
+   ###- 1x seeed xiao nRf52840
+   ###- 1x 603048 900mAh 3.7V protected battery
    - 21x (25x) 1N4148 diodes
-   ###- 21x Keychron K pro Mint switch###
+   ###- 21x Keychron K pro Mint switch
    - 24x (30x) WS2812B SMD 5050
    - 6x wide keycap stabilizer
 
