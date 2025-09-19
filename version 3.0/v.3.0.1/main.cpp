@@ -7,7 +7,7 @@
 void setup() {
   // put your setup code here, to run once:
 Serial.begin(115200); // sets serial comm, research the value
-pinMode (13, OUTPUT); // powers on the battery charging pin
+//pinMode (13, OUTPUT); // powers on the battery charging pin
 pinMode(0, INPUT_PULLUP);
 pinMode(10, OUTPUT);
 digitalWrite(10, LOW);
@@ -21,4 +21,5 @@ if(digitalRead(0) == LOW){
   delay(280);  //specifies delay between registered key presses, needs further work (bigger delay after first click then shorter delay)
   digitalWrite(10, LOW);
 }
+
 }
