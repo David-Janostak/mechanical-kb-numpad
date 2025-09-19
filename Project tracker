@@ -87,3 +87,6 @@ The code - roadmap
 17.09.2025:
   - found old source code for v2 prototype
   - created respective GitHub folders for all past prototypes and uploaded c++ and platformio config files
+
+19.09.2025:
+  - realised how bad I'm with C++, all previous code was made by ChatGPT + Claude Ai lol, meaning I'll have to start from the basics
